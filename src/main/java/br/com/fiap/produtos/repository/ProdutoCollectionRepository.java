@@ -34,7 +34,8 @@ public class ProdutoCollectionRepository {
             return produto;
         }else {
             JOptionPane.showMessageDialog(null, "Já existe produto cadastrado");
-            JOptionPane.showMessageDialog(null, "teste");
+            JOptionPane.showMessageDialog(null, "teste de commite");
+
             return null;
         }
     }
